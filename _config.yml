@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title:
-description:
+title: Sociedad Estadística de Bolivia
+description: 
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: es
 url:
 
 # Jekyll configuration
@@ -37,15 +37,15 @@ titlecase: true
 
 # Site owner
 owner:
-  name:
-  email:
-  twitter:
+  name: Sociedad Estadistica de Bolivia
+  email: seb.bolivia@gmail.compressed
+  twitter: @sebBolivia
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: La sociedad se creo el 2016
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+  disqus-shortname: SEB
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
