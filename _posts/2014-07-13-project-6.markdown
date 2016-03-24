@@ -1,5 +1,5 @@
 ---
-title: Areas de investigación
+title: Areas de investigacin
 subtitle: Graphic Design
 layout: default
 modal-id: 6
@@ -12,8 +12,6 @@ client: Start Bootstrap
 category: Web Development
 description: Proyecto orientado a....
 
-
-
 # cjshfbvfjhdv
 
 vfvdfvdf
@@ -25,4 +23,5 @@ vfdvdfv
 1. vfkvdf
 2. dfvdfv
 3. dfvdfvd
+
 ---
