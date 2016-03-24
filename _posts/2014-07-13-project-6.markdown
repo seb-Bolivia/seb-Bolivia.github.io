@@ -12,16 +12,4 @@ client: Start Bootstrap
 category: Web Development
 description: Proyecto orientado a....
 
-# cjshfbvfjhdv
-
-vfvdfvdf
-vdfvdfvd
-vfdvfdvdfv
-vdfvdfvdf
-vfdvdfv
-
-1. vfkvdf
-2. dfvdfv
-3. dfvdfvd
-
 ---
