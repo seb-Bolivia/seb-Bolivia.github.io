@@ -1,12 +1,12 @@
-- title: Start
+- title: Inicio
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Intitucional
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Membresia"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Congresos"
   url: "/headers/"
   side: left
   dropdown:
@@ -50,7 +50,7 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
+- title: Biblioteca
   url: "/documentation/"
   side: left
   dropdown:
@@ -59,17 +59,13 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
+- title: Investigación
   url: "/blog/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
+- title: "Contactos"
   url: "/contact/"
   side: right
